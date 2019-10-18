@@ -204,7 +204,7 @@
     <section class="wf100 city-news p75">
       <div class="container">
         <div class="title-style-3">
-          <h3>Be Updated with City News</h3>
+          <h3>Recent News</h3>
           <p>Read the News Updates and Articles about Government </p>
         </div>
         <div class="row"> 
@@ -716,7 +716,7 @@
         <div class="row">
           <div class="col-md-6 col-sm-5">
             <div class="newsletter-form">
-              <h5>Be Updated with us</h5>
+              <h5>Be Updated with Our Activities</h5>
               <ul class="row">
                 <li class="col-md-6">
                   <input type="text" class="form-control" placeholder="Your Name">
@@ -725,7 +725,7 @@
                   <input type="text" class="form-control" placeholder="Email Address">
                 </li>
                 <li class="col-md-6">
-                  <p>Signup to get the updates on email from the city &amp; town affairs!</p>
+                  <p>Leave Your Email Here To Get Our Recent Activities</p>
                 </li>
                 <li class="col-md-6">
                   <button>Subscribe</button>
@@ -735,25 +735,12 @@
           </div>
           <div class="col-md-6 col-sm-7">
             <div class="e-numbers">
-              <h5>Emergency Numbers</h5>
-              <p>Dial these numbers in case of any emergency</p>
+              <h5>For More Information Please Call</h5>
+              <p>Or Our Email : Mdesignpro10@gmail.com</p>
               <div class="info-num"> <strong>For any Information</strong>
                 <h3>(08)00 9876</h3>
               </div>
-              <ul class="row">
-                <li class="col-md-4 col-sm-4">
-                  <div class="em-box"> <i class="fas fa-user-secret"></i> <strong class="em-num">911</strong> <strong class="em-deprt">Police
-                    Department</strong> </div>
-                </li>
-                <li class="col-md-4 col-sm-4">
-                  <div class="em-box"> <i class="fas fa-ambulance"></i> <strong class="em-num">177</strong> <strong class="em-deprt"> Ambulance
-                    Services</strong> </div>
-                </li>
-                <li class="col-md-4 col-sm-4">
-                  <div class="em-box"> <i class="fas fa-fire-extinguisher"></i> <strong class="em-num">103</strong> <strong class="em-deprt">Fire Brigade
-                    Department</strong> </div>
-                </li>
-              </ul>
+             
             </div>
           </div>
         </div>
@@ -833,22 +820,7 @@
   <!--Footer Start--> 
   <!--Footer Start-->
   <footer class="home3 footer wf100">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-7 col-sm-7">
-          <p class="copyr">Balad  Rights Reserved © 2019, By: <a href="#">Gramotech</a></p>
-        </div>
-        <div class="col-md-5 col-sm-5">
-          <ul class="footer-social">
-            <li><a href="#" class="fb"><i class="fab fa-facebook-f"></i></a></li>
-            <li><a href="#" class="tw"><i class="fab fa-twitter"></i></a></li>
-            <li><a href="#" class="insta"><i class="fab fa-instagram"></i></a></li>
-            <li><a href="#" class="linken"><i class="fab fa-linkedin-in"></i></a></li>
-            <li><a href="#" class="yt"><i class="fab fa-youtube"></i></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
+   <?php include('footer.php');?>
   </footer>
   <!--Footer End--> 
 </div>

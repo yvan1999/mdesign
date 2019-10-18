@@ -160,11 +160,11 @@ body a:focus {
 	color: #d94148;
 }
 .pagebg {
-	background: url(../images/teampagebg.jpg) no-repeat;
+	background: url(../assets/img/teampagebg.jpg) no-repeat;
 	background-size: cover;
 }
 .pagebg2 {
-	background: url(../images/newsbg.jpg) no-repeat;
+	background: url(../assets/img/newsbg.jpg) no-repeat;
 	background-size: cover;
 }
 /******** + ========== + Header Start + ========== + ********/
@@ -308,7 +308,7 @@ header {
 /***************  Sub Header Start  *****************/
 
 .subheader {
-	background: url(../images/subheaderbg.jpg) no-repeat;
+	background: url(../assets/img/subheaderbg.jpg) no-repeat;
 	background-size: cover;
 	padding: 110px 0;
 }
@@ -653,7 +653,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 /******** + ========== + Event Festivals & News Articles Start + ========== + ********/
 
 .news-event {
-	background: url(../images/newsbg.jpg) no-repeat;
+	background: url(../assets/img/newsbg.jpg) no-repeat;
 	background-size: cover;
 }
 .title-style-2 a {
@@ -864,7 +864,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 /******** + ========== + Cityscapes & Highlights Start + ========== + ********/
 
 .city-highlights {
-	background: url(../images/highlights-bg.jpg) no-repeat;
+	background: url(../assets/img/highlights-bg.jpg) no-repeat;
 }
 .white-text h2 {
 	color: #fff;
@@ -1236,7 +1236,7 @@ a.see-more:hover {
 /******** + ========== + Facts About City Start + ========== + ********/
 
 .fact-newsletter {
-	background: url(../images/factsbg.jpg) no-repeat;
+	background: url(../assets/img/factsbg.jpg) no-repeat;
 	background-size: cover;
 }
 .title-style-1.white p, .title-style-1.white h2 {
@@ -1344,7 +1344,7 @@ a.see-more:hover {
 
 /******** + ========== + City Officials Team Start + ========== + ********/
 .city-team {
-	background: url(../images/teambg.jpg) no-repeat;
+	background: url(../assets/img/teambg.jpg) no-repeat;
 	background-size: cover;
 }
 .p80-p50 {
@@ -1474,7 +1474,7 @@ ul.team-social a:hover {
 /******** + ========== + Call 2 Action Start + ========== + ********/
 
 .call2action {
-	background: url(../images/call2action.jpg) no-repeat;
+	background: url(../assets/img/call2action.jpg) no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -1550,7 +1550,7 @@ ul.team-social a:hover {
 /*** + === + Mayor MSG Start + === + ***/
 
 .h2-Mayor-msg {
-	background: url(../images/flagbg.jpg) right top no-repeat #d94148;
+	background: url(../assets/img/flagbg.jpg) right top no-repeat #d94148;
 	padding: 30px;
 	border-radius: 3px;
 	width: 100%;
@@ -1665,7 +1665,7 @@ ul.team-social a:hover {
 
 
 .h2-local-brands {
-	background: url(../images/worldmap-dots.jpg) bottom left no-repeat;
+	background: url(../assets/img/worldmap-dots.jpg) bottom left no-repeat;
 }
 .local-brands .title-style-1 {
 	margin-bottom: 32px;
@@ -1735,7 +1735,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 	margin: 0px;
 }
 .lb-ser-box .lb-icon {
-	background: url(../images/icobox.png);
+	background: url(../assets/img/icobox.png);
 	width: 83px;
 	height: 83px;
 	float: left;
@@ -1769,12 +1769,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 /*** + === + Emergency Numbers Start + === + ***/
 
 .emergency-numbers {
-	background: url(../images/h2factsbg.jpg) no-repeat;
+	background: url(../assets/img/h2factsbg.jpg) no-repeat;
 	background-size: cover;
 	padding: 60px 0;
 }
 .newsletter-form {
-	background: url(../images/em-formbg.jpg) no-repeat bottom #144b8d;
+	background: url(../assets/img/em-formbg.jpg) no-repeat bottom #144b8d;
 	border-radius: 3px;
 	padding: 30px 30px 35px;
 }
@@ -2238,7 +2238,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 /*** + === + Citizens & Community Corner Start + === + ***/
 
 .community-links {
-	background: url(../images/citizenbg.jpg) no-repeat;
+	background: url(../assets/img/citizenbg.jpg) no-repeat;
 	background-size: cover;
 }
 .community-box {
@@ -2311,7 +2311,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 /*** + === + Read Some Facts Start + === + ***/
 
 .some-facts {
-	background: url(../images/factsbg2.jpg) no-repeat;
+	background: url(../assets/img/factsbg2.jpg) no-repeat;
 	background-size: cover;
 	padding: 60px 0;
 }
@@ -2447,12 +2447,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 /*** + === + Home 2 Footer Start + === + ***/
 
 .main-footer {
-	background: url(../images/footerbg.jpg) no-repeat;
+	background: url(../assets/img/footerbg.jpg) no-repeat;
 	background-size: cover;
 	padding: 60px 0;
 }
 .home3.main-footer {
-	background: url(../images/h3footerbg.jpg) no-repeat;
+	background: url(../assets/img/h3footerbg.jpg) no-repeat;
 	background-size: cover;
 }
 .home3.footer {
@@ -2604,7 +2604,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 }
 
 .header-two .topbar {
-	background: url(../images/npatt.png) #12498a;
+	background: url(../assets/img/npatt.png) #12498a;
 }
 .header-two .topbar p {
 	margin: 0px;
@@ -2884,7 +2884,7 @@ li.header-weather {
 /*********** Mayor Msg with Video Start ***********/
     
 .Mayor-video-msg {
-	background: url(../images/npatt.png);
+	background: url(../assets/img/npatt.png);
 	padding: 40px 0 60px;
 }
 .Mayor-welcome h5 {
@@ -3393,7 +3393,7 @@ ul.rep-comments {
 
 
 .depart-info {
-	background: url(../images/deprtinfobg.jpg) no-repeat bottom;
+	background: url(../assets/img/deprtinfobg.jpg) no-repeat bottom;
 	background-size: cover;
 }
 .depart-info.p80 {
@@ -3496,7 +3496,7 @@ ul.reports a i {
 /*********** Recent Events Start ***********/
 
 .recent-events {
-	background: url(../images/eventsbg.jpg) no-repeat;
+	background: url(../assets/img/eventsbg.jpg) no-repeat;
 	background-size: cover;
 }
 .recent-events h3 {
@@ -3889,7 +3889,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 /*********** Explore Community End ***********/
 
 .home3.emergency-numbers .newsletter-form {
-	background: url(../images/h3newsletterbg.jpg) no-repeat bottom #d94249;
+	background: url(../assets/img/h3newsletterbg.jpg) no-repeat bottom #d94249;
 }
 .home3.emergency-numbers .newsletter-form button {
 	background: #144b8b;
@@ -3917,7 +3917,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 .events-wrapper {
 	padding: 80px 0;
 	width: 100%;
-	background: url(../images/eventpagebg.jpg) no-repeat bottom;
+	background: url(../assets/img/eventpagebg.jpg) no-repeat bottom;
 	background-size: cover;
 }
 .events-wrapper .event-post {
@@ -4496,7 +4496,7 @@ ul.check-list i {
 /******** + ========== + City Departments Start + ========== + ********/
 
 .dpage-bg {
-	background: url(../images/eventpagebg.jpg) no-repeat top center;
+	background: url(../assets/img/eventpagebg.jpg) no-repeat top center;
 	background-size: cover;
 }
 .h2-local-brands.nobg {
@@ -4506,7 +4506,7 @@ ul.check-list i {
 	padding: 0 6px;
 }
 .newsletter-style2 {
-	background: url(../images/h3newsletterbg.jpg) bottom no-repeat;
+	background: url(../assets/img/h3newsletterbg.jpg) bottom no-repeat;
 	background-size: cover;
 }
 .newsletter-style2 .form-control {
@@ -4863,11 +4863,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 	color: #d94148;
 }
 .service-page-bottom {
-	background: url(../images/eventsbg.jpg) top center;
+	background: url(../assets/img/eventsbg.jpg) top center;
 	padding: 60px 0;
 }
 .service-page-bottom .newsletter-form {
-	background: url(../images/h3newsletterbg.jpg) bottom center;
+	background: url(../assets/img/h3newsletterbg.jpg) bottom center;
 	background-size: cover;
 	padding: 42px 30px;
 }
@@ -5082,7 +5082,7 @@ body .panel-group .panel+.panel {
 	opacity: 1;
 }
 .facts-counter {
-	background: url(../images/factsbg.jpg);
+	background: url(../assets/img/factsbg.jpg);
 	padding: 60px 50px;
 	border-radius: 3px;
 }
@@ -5421,7 +5421,7 @@ div#filters {
 	position: relative;
 	z-index: 999;
 	top: -45px;
-	background:url(../images/npatt.png);
+	background:url(../assets/img/npatt.png);
 }
 .event-counter ul {
 	margin: 0px;
@@ -6698,7 +6698,7 @@ Coming Soon Start
 *********************************/
 
 .coming-soon {
-	background: url(../images/coming-soon.jpg) top center fixed;
+	background: url(../assets/img/coming-soon.jpg) top center fixed;
 	background-size: cover;
 }
 .cs-txt {
@@ -6806,7 +6806,7 @@ Page 404
 	width: 100%;
 	float: left;
 	height: 100vh;
-	background: url(../images/page404.jpg) no-repeat;
+	background: url(../assets/img/page404.jpg) no-repeat;
 	background-size: cover;
 }
 .wrap-404 {
